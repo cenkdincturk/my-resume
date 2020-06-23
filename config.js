@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/avatar.png',
-  pathPrefix: `www.cenkdincturk.com`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `cenkdincturk.com`, // This path is subpath of your hosting https://domain/portfolio
   firstName: 'Cenk',
   lastName: 'Dİnçtürk',
   // social
