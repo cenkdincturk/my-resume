@@ -33,7 +33,7 @@ export class Sidebar extends Component {
         className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
         id="sideNav"
       >
-        <a className="navbar-brand" href="#page-top">
+        <a className="navbar-brand" href="/">
           <span className="d-block d-lg-none">
             {config.firstName} {config.lastName}
           </span>
@@ -41,7 +41,7 @@ export class Sidebar extends Component {
             <img
               className="img-fluid img-profile rounded-circle mx-auto mb-2"
               src={avatar}
-              alt=""
+              alt="cenkdincturkavatar"
             />
           </span>
         </a>

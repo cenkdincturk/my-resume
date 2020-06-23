@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/images/avatar.png',
   pathPrefix: `cenkdincturk.com`, // This path is subpath of your hosting https://domain/portfolio
   firstName: 'Cenk',
-  lastName: 'Dİnçtürk',
+  lastName: 'Dincturk',
   // social
   socialLinks: [
     {

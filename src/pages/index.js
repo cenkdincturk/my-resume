@@ -14,12 +14,11 @@ const IndexPage = () => (
         id="about"
       >
         <div className="w-100">
-          <h1 className="mb-0">
+          <h1 className="mb-0 mr-0">
             {config.firstName}
-            <span className="text-primary">{config.lastName}</span>
+            <span className="text-primary mr-1">{config.lastName}</span>
           </h1>
           <div className="subheading mb-5">
-            {config.address} · {config.phone} ·
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
@@ -93,7 +92,7 @@ const IndexPage = () => (
       <hr className="m-0" />
 
       <section
-        className="resume-section p-3 p-lg-5 d-flex align-items-center"
+        className="resume-section p-3 p-lg-5 d-flex justify-content-center"
         id="education"
       >
         <div className="w-100">
@@ -126,7 +125,7 @@ const IndexPage = () => (
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">2016 - Devam</span>
             </div>
           </div>
         </div>
