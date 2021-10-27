@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Cenk",
+      "comment": "Yorum 1"
+    },
+    {
+      "id": 2,
+      "name": "Eren",
+      "comment": "Yorum 2"
+    },
+    {
+      "id": 3,
+      "name": "Merve",
+      "comment": "Yorum 3"
+    }
+  ]
